@@ -27,7 +27,7 @@ You don't need to write code to contribute; all contributions are welcome and en
 - [Answer someone's question in Discussions](https://github.com/NamVr/.../discussions/categories/support-q-a?discussions_q=category%3A%22Support+%28Q%26A%29%22+is%3Aunanswered)
 - Respond to an issue or pull request
 
-If you want to contribute but don't know how, and this file doesn't answer your questions, [start a discussion](https://github.com/NamVr/../discussions/new) or [join the Discord support & community server](https://discord.gg/soon) to ask for guidance.
+If you want to contribute but don't know how, and this file doesn't answer your questions, [start a discussion](https://github.com/NamVr/../discussions/new) or [join the Discord support & community server](https://discord.gg/zAKZjtne8C) to ask for guidance.
 
 **Issues are for:**
 
@@ -38,8 +38,8 @@ Please label your issues appropriately.
 
 **Discussions are for:**
 
-- Support (also on [Discord](https://discord.gg/soon))
-- General questions (also on [Discord](https://discord.gg/soon))
+- Support (also on [Discord](https://discord.gg/zAKZjtne8C))
+- General questions (also on [Discord](https://discord.gg/zAKZjtne8C))
 <!-- - Requesting new features -->
 
 Please read ["Welcome to NamVr Discussions!"](https://github.com/NamVr/.../discussions/..) before starting a discussion!
