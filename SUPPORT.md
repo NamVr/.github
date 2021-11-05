@@ -6,7 +6,7 @@ See the [Issues](https://github.com/issues) page on the website for the answer t
 
 ## Discord server
 
-Join the [Discord support server](https://discord.gg/zAKZjtne8C) for help.
+Join the [Discord support server](https://discord.gg/N7AJFYf8EP) for help.
 
 ## Discussions
 
